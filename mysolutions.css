@@ -133,7 +133,7 @@
 
 /* ESERCIZIO 13 */
 .ex-13-button:hover .ex-13-top-white{
-    animation: blocks-ex-13 2s linear;
+    animation: blocks-ex-13 2s linear infinite;
 }
 
 @keyframes blocks-ex-13{
@@ -164,7 +164,7 @@
 }
 
 .ex-13-button:hover .ex-13-bottom-white{
-    animation: blocks-bottom-ex-13 2s linear;
+    animation: blocks-bottom-ex-13 2s linear infinite;
 }
 
 @keyframes blocks-bottom-ex-13{
