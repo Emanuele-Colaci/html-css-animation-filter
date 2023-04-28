@@ -39,17 +39,24 @@
 /* FINE ESERCIZIO 6 */
 
 /* ESERCIZIO 7 */
+.ex-7-img{
+    transition: all 1s;
+}
+
 .ex-7-img:hover{
     filter: grayscale(70%) drop-shadow(8px 8px 10px gray);
-    transition: filter 1s;
+   
 }
 /* FINE ESERCIZIO 7 */
 
 /* ESERCIZIO 8 */
+.ex-8-img{
+    transition: all 2s;
+}
+
 .ex-8-img:hover{
     filter: grayscale(70%) saturate(8);
     border-radius: 5%;
-    transition: all 2s;
 }
 /* FINE ESERCIZIO 8 */
 
